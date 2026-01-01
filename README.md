@@ -21,6 +21,9 @@
 **详细教程请前往** [https://miraclesses.top](https://miraclesses.top)  
 文档包含快速开始、详细文档等，萌新大佬均可无痛阅读
 
+
+## 构建
+CGO_ENABLED=1 go build -o dmp
 ---
 
 ## :love_letter: 代码贡献
